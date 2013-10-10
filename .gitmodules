@@ -1,0 +1,3 @@
+[submodule "flume_filtering"]
+	path = flume_filtering
+	url = https://github.com/ashrithr/flume_filtering.git
