@@ -2,9 +2,10 @@
 
 Hadoop related use-cases
 
-| Module          | Description                                                                                                     |
-| ------          | -----------                                                                                                     |
+| Module | Description |
+| ------ | ----------- |
 | flume_filtering | Filters apache web server log events to respective directories in hdfs using interceptors and channel selectors |
+| log_analytics_mapreduce | Set of MapReduce programs to analyze web logs from apache httpd |
 
 To use/work-with these use-cases:
 
