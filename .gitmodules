@@ -1,3 +1,6 @@
 [submodule "flume_filtering"]
 	path = flume_filtering
 	url = https://github.com/ashrithr/flume_filtering.git
+[submodule "log_analytics_mapreduce"]
+	path = log_analytics_mapreduce
+	url = https://github.com/ashrithr/log_analytics_mapreduce.git
