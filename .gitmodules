@@ -4,3 +4,6 @@
 [submodule "log_analytics_mapreduce"]
 	path = log_analytics_mapreduce
 	url = https://github.com/ashrithr/log_analytics_mapreduce.git
+[submodule "analytics-hive-demo"]
+	path = analytics-hive-demo
+	url = https://github.com/ashrithr/analytics-game-demo.git
