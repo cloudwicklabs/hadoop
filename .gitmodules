@@ -7,3 +7,6 @@
 [submodule "analytics-hive-demo"]
 	path = analytics-hive-demo
 	url = https://github.com/ashrithr/analytics-game-demo.git
+[submodule "ncdc_data_processing"]
+	path = ncdc_data_processing
+	url = https://github.com/ashrithr/ncdc_data_processing.git
