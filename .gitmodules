@@ -10,3 +10,6 @@
 [submodule "ncdc_data_processing"]
 	path = ncdc_data_processing
 	url = https://github.com/ashrithr/ncdc_data_processing.git
+[submodule "mapreduce_joins"]
+	path = mapreduce_joins
+	url = https://github.com/ashrithr/mapreduce_joins.git
