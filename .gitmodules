@@ -13,3 +13,6 @@
 [submodule "mapreduce_joins"]
 	path = mapreduce_joins
 	url = https://github.com/ashrithr/mapreduce_joins.git
+[submodule "mapreduce_training"]
+	path = mapreduce_training
+	url = https://github.com/ashrithr/mapreduce_cwt.git
